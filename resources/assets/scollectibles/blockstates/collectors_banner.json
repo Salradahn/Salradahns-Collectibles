@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "scollectibles:collectors_banner" },
+        "facing=south": { "model": "scollectibles:collectors_banner", "y": 180 },
+        "facing=west":  { "model": "scollectibles:collectors_banner", "y": 270 },
+        "facing=east":  { "model": "scollectibles:collectors_banner", "y": 90 }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "scollectibles:enderman_figure_case", "y": 90 },
+        "facing=south": { "model": "scollectibles:enderman_figure_case", "y": 270 },
+        "facing=west":  { "model": "scollectibles:enderman_figure_case" },
+        "facing=east":  { "model": "scollectibles:enderman_figure_case", "y": 180 }
+    }
+}

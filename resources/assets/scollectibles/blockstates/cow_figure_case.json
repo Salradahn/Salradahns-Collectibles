@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "scollectibles:cow_figure_case", "y": 90 },
+        "facing=south": { "model": "scollectibles:cow_figure_case", "y": 270 },
+        "facing=west":  { "model": "scollectibles:cow_figure_case" },
+        "facing=east":  { "model": "scollectibles:cow_figure_case", "y": 180 }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "scollectibles:husk_figure_case", "y": 90 },
+        "facing=south": { "model": "scollectibles:husk_figure_case", "y": 270 },
+        "facing=west":  { "model": "scollectibles:husk_figure_case" },
+        "facing=east":  { "model": "scollectibles:husk_figure_case", "y": 180 }
+    }
+}

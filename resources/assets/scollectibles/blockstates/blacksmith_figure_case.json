@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "scollectibles:blacksmith_figure_case" },
+        "facing=south": { "model": "scollectibles:blacksmith_figure_case", "y": 180 },
+        "facing=west":  { "model": "scollectibles:blacksmith_figure_case", "y": 270 },
+        "facing=east":  { "model": "scollectibles:blacksmith_figure_case", "y": 90 }
+    }
+}

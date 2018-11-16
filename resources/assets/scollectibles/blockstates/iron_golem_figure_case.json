@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "scollectibles:iron_golem_figure_case" },
+        "facing=south": { "model": "scollectibles:iron_golem_figure_case", "y": 180 },
+        "facing=west":  { "model": "scollectibles:iron_golem_figure_case", "y": 270 },
+        "facing=east":  { "model": "scollectibles:iron_golem_figure_case", "y": 90 }
+    }
+}

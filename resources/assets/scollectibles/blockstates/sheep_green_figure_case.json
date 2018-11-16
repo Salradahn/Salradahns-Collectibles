@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "scollectibles:sheep_green_figure_case" },
+        "facing=south": { "model": "scollectibles:sheep_green_figure_case", "y": 180 },
+        "facing=west":  { "model": "scollectibles:sheep_green_figure_case", "y": 270 },
+        "facing=east":  { "model": "scollectibles:sheep_green_figure_case", "y": 90 }
+    }
+}

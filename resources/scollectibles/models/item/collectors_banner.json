@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
+	"textures": {
+		"0": "scollectibles:blocks/collectors_banner",
+		"particle": "scollectibles:blocks/collectors_banner"
+	},
+	"elements": [
+		{
+			"name": "cube",
+			"from": [2, 0, 14],
+			"to": [14, 2, 16],
+			"faces": {
+				"north": {"uv": [2, 0, 14, 2], "texture": "#0"},
+				"east": {"uv": [2, 0, 4, 2], "texture": "#0"},
+				"south": {"uv": [2, 0, 14, 2], "texture": "#0"},
+				"west": {"uv": [12, 0, 14, 2], "texture": "#0"},
+				"up": {"uv": [2, 0, 14, 2], "texture": "#0"},
+				"down": {"uv": [2, 0, 14, 2], "texture": "#0"}
+			},
+			"type": "cube"
+		},
+		{
+			"name": "cube",
+			"from": [2, -14, 15],
+			"to": [14, 0, 15],
+			"faces": {
+				"north": {"uv": [2, 2, 14, 16], "texture": "#0"},
+				"east": {"uv": [2, 2, 14, 16], "texture": "#0"},
+				"south": {"uv": [14, 2, 2, 16], "texture": "#0"},
+				"west": {"uv": [2, 2, 14, 16], "texture": "#0"},
+				"up": {"uv": [2, 2, 14, 16], "texture": "#0"},
+				"down": {"uv": [2, 2, 14, 16], "texture": "#0"}
+			},
+			"type": "cube"
+		}
+	]
+}

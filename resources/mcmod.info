@@ -1,0 +1,16 @@
+[
+{
+"modid": "scollectibles",
+"name": "Salradahn's Collectibles",
+"description": "A small mod adding various collectible items to spice up exploration",
+"version": "2.0",
+"mcversion": "1.12.2",
+"url": "https://discord.gg/QNDTFYt",
+"authors": "Salradahn",
+"credits": "Korlimann for spending his precious time helping me with the mod after it's release.",
+"parent": "",
+"logoFile": "",
+"screenshots": [],
+"dependencies": ["mod_MinecraftForge"]
+}
+]
